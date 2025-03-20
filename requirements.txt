@@ -18,6 +18,7 @@ Flask==3.1.0
 fsspec==2025.3.0
 gitdb==4.0.12
 GitPython==3.1.44
+google_search_results==2.4.2
 gradio==5.22.0
 gradio_client==1.8.0
 groovy==0.1.2

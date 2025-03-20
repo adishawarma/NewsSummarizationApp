@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Recent News - Stories",
+        "link": "https://news.microsoft.com/recent-news/",
+        "sentiment": "Neutral"
+    },
+    {
+        "title": "Microsoft confirms its latest Windows update 'uninstalled' Copilot app: We are ... - The Times of India",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-confirms-its-latest-windows-update-uninstalled-copilot-app-we-are-/articleshow/119163116.cms",
+        "sentiment": "Positive"
+    },
+    {
+        "title": "Latest news - Source",
+        "link": "https://news.microsoft.com/source/view-all/",
+        "sentiment": "Positive"
+    },
+    {
+        "title": "Latest News on Microsoft: Get Microsoft News Updates along with Photos, Videos and Latest News Headlines | The Indian Express",
+        "link": "https://indianexpress.com/about/microsoft/",
+        "sentiment": "Positive"
+    },
+    {
+        "title": "microsoft: Latest News & Videos, Photos about microsoft  | The Economic Times - Page 1",
+        "link": "https://economictimes.indiatimes.com/topic/microsoft",
+        "sentiment": "Positive"
+    },
+    {
+        "title": "Homepage - Source",
+        "link": "https://news.microsoft.com/source/",
+        "sentiment": "Neutral"
+    },
+    {
+        "title": "India - Source Asia",
+        "link": "https://news.microsoft.com/source/asia/region/india/",
+        "sentiment": "Neutral"
+    },
+    {
+        "title": "Microsoft - BBC News",
+        "link": "https://www.bbc.com/news/topics/cvenzmgyg0lt",
+        "sentiment": "Neutral"
+    },
+    {
+        "title": "Microsoft - latest news, breaking stories and comment - The Independent",
+        "link": "https://www.independent.co.uk/topic/microsoft",
+        "sentiment": "Positive"
+    },
+    {
+        "title": "Microsoft india: Read Latest News & Updates on Microsoft india, Photos, Videos | CNBCTV18",
+        "link": "https://www.cnbctv18.com/tags/microsoft-india.htm",
+        "sentiment": "Positive"
+    }
+]

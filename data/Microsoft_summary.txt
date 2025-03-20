@@ -1,0 +1,3 @@
+The company Microsoft has 10 recent news articles.
+Out of these, 6 articles are positive, 0 are negative, and 4 are neutral.
+This indicates the overall sentiment about Microsoft is mostly positive.
